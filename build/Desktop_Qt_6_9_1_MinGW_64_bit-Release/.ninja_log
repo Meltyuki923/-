@@ -1,0 +1,15 @@
+# ninja log v5
+4	2356	7758269872089523	Serial_autogen/timestamp	13f71c31f3621c17
+2500	4582	7758269896388683	CMakeFiles/Serial.dir/main.cpp.obj	8debb8063770ef89
+4	2356	7758269872089523	Serial_autogen/mocs_compilation.cpp	13f71c31f3621c17
+4	2356	7758269872089523	D:/QTProject/Serial/Serial/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/Serial_autogen/timestamp	13f71c31f3621c17
+4	2356	7758269872089523	D:/QTProject/Serial/Serial/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/Serial_autogen/mocs_compilation.cpp	13f71c31f3621c17
+2357	4276	7758269893239768	CMakeFiles/Serial.dir/Serial_autogen/mocs_compilation.cpp.obj	7cedadf32cde7229
+2766	6582	7758269916355295	CMakeFiles/Serial.dir/widget.cpp.obj	8951c25f1db9e95b
+21	909	7758270841072033	Serial_autogen/timestamp	13f71c31f3621c17
+21	909	7758270841072033	Serial_autogen/mocs_compilation.cpp	13f71c31f3621c17
+21	909	7758270841072033	D:/QTProject/Serial/Serial/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/Serial_autogen/timestamp	13f71c31f3621c17
+21	909	7758270841072033	D:/QTProject/Serial/Serial/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/Serial_autogen/mocs_compilation.cpp	13f71c31f3621c17
+913	4755	7758270879558042	CMakeFiles/Serial.dir/widget.cpp.obj	8951c25f1db9e95b
+40	658	7758271148908281	CMakeFiles/Serial.dir/Serial.rc.obj	2082b0b982b216a7
+658	1491	7758271157174336	Serial.exe	281c541cd8ddc69f

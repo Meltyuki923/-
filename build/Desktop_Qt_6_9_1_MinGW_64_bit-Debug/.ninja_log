@@ -1,0 +1,12 @@
+# ninja log v5
+35	1501	7758244555048775	Serial_autogen/timestamp	33d5d3b711d61145
+1709	3983	7758244582171379	CMakeFiles/Serial.dir/main.cpp.obj	d04b3933fcdaa394
+35	1501	7758244555048775	D:/QTProject/Serial/Serial/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Serial_autogen/mocs_compilation.cpp	33d5d3b711d61145
+35	1501	7758244555048775	Serial_autogen/mocs_compilation.cpp	33d5d3b711d61145
+35	1501	7758244555048775	D:/QTProject/Serial/Serial/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Serial_autogen/timestamp	33d5d3b711d61145
+1946	6597	7758244608241243	CMakeFiles/Serial.dir/widget.cpp.obj	89fa722ddba039f0
+20	2985	7758283815415928	build.ninja	d4b9dc2d592d0edd
+1501	3765	7758244579997408	CMakeFiles/Serial.dir/Serial_autogen/mocs_compilation.cpp.obj	81b6ed47b48d0d76
+6597	7447	7758244616763612	Serial.exe	8b2890def6b41be0
+19	220	0	CMakeFiles/clean.additional	69eb611485066eae
+221	396	0	clean	52af9749d1277a29
